@@ -1,3 +1,6 @@
+# Guide to deploy to clean frost
+first create a new branch
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
