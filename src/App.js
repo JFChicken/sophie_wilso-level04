@@ -1,23 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
+import Body from './Body';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Simple list of galleries <code>JC-Photograph</code>.
-        </p>
-        <a
-          className="App-link"
-          href="/gallery"
-          target="_self"
-          rel="noopener noreferrer"
-        >
-          View gallery - demo photos
-        </a>
+        Photo Slideshow
+          <Body />
       </header>
+        Build Some More Content down here to Pad Out the Very Long list of items i want to cover in my talk
+
     </div>
   );
 }
